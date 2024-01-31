@@ -1,0 +1,12 @@
+Roll,Item
+10,"Today you're traveling! - everything was going smoothly until you encounter a monster! 
+```
+`/tableroll PSLencounter` or `/tableroll LDWencounter` to continue!
+```ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ"
+10,"It's a nice and safe day of traveling. What will you do next?
+```
+<:bp2:809226748024979466>Recover a Heart ⇒ 【- 🟩】
+<:bp2:809226748024979466>Gather ⇒【- 🟩】
+<:blank:895697584390275162> `/tableroll PSLgather` or `/tableroll LDWgather` to continue 
+<:bp2:809226748024979466> Do Nothing. `/tableroll travel` to continue
+```ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ"
