@@ -171,7 +171,7 @@ Weight,
 <:monster:1199952229826830437> You encountered a Ice Wizzrobe! <:monster:1199952229826830437>
 ```/tableroll icewizzrobe to continue
 /tableroll retreat to flee ⇒ 【- 🟩】"
-7," You encountered a Gloom Hands! This foe is especially tough...
+7," You encountered a Gloom Hands! This foe is especially tough..._You cannot retreat from this monster! you must fight it alone!_
 ```
  - You must keep track of the monster hearts!
 
@@ -179,10 +179,9 @@ Weight,
 **Hearts:**10/10
 
 Use the following command to begin the battle! ```/tableroll tier5```
-
 After the battle is over please roll the following! ```/tableroll gloomhands
-```_You cannot retreat from this monster! you must fight it alone!_"
-7," You encountered a Blue Hinox! This foe is especially tough...
+```"
+7," You encountered a Blue Hinox! This foe is especially tough..._You cannot retreat from this monster! you must fight it alone!_
 ```
  - You must keep track of the monster hearts!
 
@@ -190,10 +189,9 @@ After the battle is over please roll the following! ```/tableroll gloomhands
 **Hearts:**10/10
 
 Use the following command to begin the battle! ```/tableroll tier5```
-
 After the battle is over please roll the following! ```/tableroll bluehinox
-```_You cannot retreat from this monster! you must fight it alone!_"
-7," You encountered a Hinox! This foe is especially tough...
+```"
+7," You encountered a Hinox! This foe is especially tough..._You cannot retreat from this monster! you must fight it alone!_
 ```
  - You must keep track of the monster hearts!
 
@@ -201,10 +199,9 @@ After the battle is over please roll the following! ```/tableroll bluehinox
 **Hearts:**10/10
 
 Use the following command to begin the battle! ```/tableroll tier5```
-
 After the battle is over please roll the following! ```/tableroll hinox
-```_You cannot retreat from this monster! you must fight it alone!_"
-7," You encountered a Golden Lizalfos! This foe is especially tough...
+```"
+7," You encountered a Golden Lizalfos! This foe is especially tough..._You cannot retreat from this monster! you must fight it alone!_
 ```
  - You must keep track of the monster hearts!
 
@@ -212,10 +209,9 @@ After the battle is over please roll the following! ```/tableroll hinox
 **Hearts:**10/10
 
 Use the following command to begin the battle! ```/tableroll tier5```
-
 After the battle is over please roll the following! ```/tableroll goldenlizalfos
-```_You cannot retreat from this monster! you must fight it alone!_"
-7," You encountered a Golden Moblin! This foe is especially tough...
+```"
+7," You encountered a Golden Moblin! This foe is especially tough..._You cannot retreat from this monster! you must fight it alone!_
 ```
  - You must keep track of the monster hearts!
 
@@ -223,10 +219,9 @@ After the battle is over please roll the following! ```/tableroll goldenlizalfos
 **Hearts:**10/10
 
 Use the following command to begin the battle! ```/tableroll tier5```
-
 After the battle is over please roll the following! ```/tableroll goldenmoblin
-```_You cannot retreat from this monster! you must fight it alone!_"
-7," You encountered a Stalnox! This foe is especially tough...
+```"
+7," You encountered a Stalnox! This foe is especially tough..._You cannot retreat from this monster! you must fight it alone!_
 ```
  - You must keep track of the monster hearts!
 
@@ -234,10 +229,9 @@ After the battle is over please roll the following! ```/tableroll goldenmoblin
 **Hearts:**10/10
 
 Use the following command to begin the battle! ```/tableroll tier5```
-
 After the battle is over please roll the following! ```/tableroll stalnox
-```_You cannot retreat from this monster! you must fight it alone!_"
-7," You encountered a Stone Talus! This foe is especially tough...
+```"
+7," You encountered a Stone Talus! This foe is especially tough..._You cannot retreat from this monster! you must fight it alone!_
 ```
  - You must keep track of the monster hearts!
 
@@ -245,10 +239,9 @@ After the battle is over please roll the following! ```/tableroll stalnox
 **Hearts:**10/10
 
 Use the following command to begin the battle! ```/tableroll tier5```
-
 After the battle is over please roll the following! ```/tableroll stonetalus
-```_You cannot retreat from this monster! you must fight it alone!_"
-7," You encountered a Blizzard Wizzrobe! This foe is especially tough...
+```"
+7," You encountered a Blizzard Wizzrobe! This foe is especially tough..._You cannot retreat from this monster! you must fight it alone!_
 ```
  - You must keep track of the monster hearts!
 
@@ -256,10 +249,9 @@ After the battle is over please roll the following! ```/tableroll stonetalus
 **Hearts:**10/10
 
 Use the following command to begin the battle! ```/tableroll tier5```
-
 After the battle is over please roll the following! ```/tableroll blizzardwizzrobe
-```_You cannot retreat from this monster! you must fight it alone!_"
-7," You encountered a Thunder Wizzrobe! This foe is especially tough...
+```"
+7," You encountered a Thunder Wizzrobe! This foe is especially tough..._You cannot retreat from this monster! you must fight it alone!_
 ```
  - You must keep track of the monster hearts!
 
@@ -267,6 +259,5 @@ After the battle is over please roll the following! ```/tableroll blizzardwizzro
 **Hearts:**10/10
 
 Use the following command to begin the battle! ```/tableroll tier5```
-
 After the battle is over please roll the following! ```/tableroll thunderwizzrobe
-```_You cannot retreat from this monster! you must fight it alone!_"
+```"
